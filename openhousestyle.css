@@ -64,9 +64,13 @@ nav h2 {
     padding-right: 5%;
     margin-top: -40px;
   }
+  nav img{
+    margin-left: 20px;
+  }
   nav h2 {
     color: black;
-    margin-right: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
     margin-top: 20px;
     cursor: pointer;
     text-align: center;
