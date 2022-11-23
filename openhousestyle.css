@@ -67,7 +67,7 @@ nav h2 {
   border: 5px solid #000;
   height: 60vh;
 }
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1024px) {
   nav {
     display: flex;
     flex-direction: column;
